@@ -2,3 +2,4 @@
 
 hi
 
+What is a Manual Merge?
